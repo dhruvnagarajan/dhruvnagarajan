@@ -1,3 +1,4 @@
+## Mobile engineer with 4 years in the industry
 ### 🔭 I specialize in
 - Android apps based on Kotlin + Jetpack. CLEAN + modularized apps.
 - Android app performance optimizations (I can help you out, ping me)
