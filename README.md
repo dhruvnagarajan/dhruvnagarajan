@@ -1,6 +1,8 @@
 ### 🔭 I specialize in
 - Android apps based on Kotlin + Jetpack. CLEAN + modularized apps.
 - Android app performance optimizations (I can help you out, ping me)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=dhruvnagarajan&show_icons=true&count_private=true)
 ### 🌱 Currently learning
 - Building app servers using Flask, Kafka, Mongo & Postgres
 - Tring to catch up with papers on computer vision on weekends
