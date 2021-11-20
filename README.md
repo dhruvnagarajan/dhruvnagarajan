@@ -6,10 +6,10 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=dhruvnagarajan&show_icons=true&count_private=true)
 ### 🌱 Currently learning
 - Building app servers using Flask, Kafka, Mongo & Postgres
-- Trying to catch up with papers on computer vision on weekends
+- Trying to catch up on computer vision during weekends
 - Web3 (I know enough to say I know nothing)
 ### 👯 Let's discuss
-- App performance optimizations
+- Finance, Markets
 - Ways to prepare data to create pattern tracking models
 - Why do we exist 🍻
 ### 📫 How to reach me:
