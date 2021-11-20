@@ -9,7 +9,7 @@
 - Trying to catch up on computer vision during weekends
 - Web3 (I know enough to say I know nothing)
 ### 👯 Let's discuss
-- Finance, Markets
+- Finance, Markets 📈📈📈
 - Ways to prepare data to create pattern tracking models
 - Why do we exist 🍻
 ### 📫 How to reach me:
